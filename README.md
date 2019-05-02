@@ -1,4 +1,4 @@
-# Self-Supervise-Retrieval
+# Self-Supervised-Retrieval
 
 Code, dataset and trained models are coming out soon.
 
